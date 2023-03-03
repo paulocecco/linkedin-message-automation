@@ -1,4 +1,4 @@
-#LinkedIn Message Automation
+# LinkedIn Message Automation
 This is a Python script for automating LinkedIn messages using Selenium. It logs in to LinkedIn, searches for a user by name, navigates to their profile, and sends them a message.
 The script uses Selenium to automate the process of logging in to LinkedIn, searching for a user by name, navigating to their profile, and sending them a message. The messages can be customized to include the recipient's name, company, or any other relevant information. This can help you save time and effort while still maintaining a personal touch in your messages.
 
