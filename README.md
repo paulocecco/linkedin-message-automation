@@ -14,11 +14,11 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Open the config.py file and enter your LinkedIn username and password.
-Open the main.py file and run the script.
+Open the `config.py` file and enter your LinkedIn username and password.
+Open the `main.py` file and run the script.
 
 ## Configuration
-To use this script, you need to provide your LinkedIn username and password. You can do this by editing the config.py file:
+To use this script, you need to provide your LinkedIn username and password. You can do this by editing the `config.py` file:
 ```
 username = "your_username"
 password = "your_password"
@@ -28,10 +28,10 @@ password = "your_password"
 If you want to contribute to this project, you can follow these steps:
 
 1. Fork this repository.
-2. Create a new branch for your changes: git checkout -b my-new-feature
-3. Make your changes and commit them: git commit -am 'Add some feature'
-4. Push your changes to your fork: git push origin my-new-feature
+2. Create a new branch for your changes: `git checkout -b my-new-feature`
+3. Make your changes and commit them: `git commit -am 'Add some feature'`
+4. Push your changes to your fork: `git push origin my-new-feature`
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE`file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
