@@ -34,4 +34,4 @@ If you want to contribute to this project, you can follow these steps:
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the `LICENSE`file for details.
