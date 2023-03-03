@@ -4,14 +4,14 @@ The script uses Selenium to automate the process of logging in to LinkedIn, sear
 
 ## Installation
 Clone this repository:
-´´´
+``` 
 git clone https://github.com/your_username/linkedin-message-automation.git
-´´´
+```
 
 ## Install the required packages:
-´´´
+```
 pip install -r requirements.txt
-´´´
+```
 
 ## Usage
 Open the config.py file and enter your LinkedIn username and password.
@@ -19,11 +19,10 @@ Open the main.py file and run the script.
 
 ## Configuration
 To use this script, you need to provide your LinkedIn username and password. You can do this by editing the config.py file:
-
-´´´
+```
 username = "your_username"
 password = "your_password"
-´´´
+```
 
 ## Contributing
 If you want to contribute to this project, you can follow these steps:
@@ -34,5 +33,5 @@ If you want to contribute to this project, you can follow these steps:
 4. Push your changes to your fork: git push origin my-new-feature
 5. Create a new Pull Request.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
